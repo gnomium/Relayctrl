@@ -193,8 +193,9 @@ public class UiProcess {
 				 }
 			}
 		});
-   }	
-	
+   }
+
+
 
    public void onConnected(boolean result){
 		if (result){

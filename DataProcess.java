@@ -16,7 +16,8 @@ public class DataProcess {
 	public static byte RELAYCHK=2;
 	public static byte RELAYSTATE=3;
 	public static byte APPQUIT=4;
-	
+
+
 	public static byte CLOSETCP=5;
 	public static byte MAINMENU=6;
 	     
